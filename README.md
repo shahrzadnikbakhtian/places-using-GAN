@@ -1,2 +1,2 @@
 # places-using-GAN
-Generating fake image of places (scene) with Generative Adversarial Network
+using a Generative Adversarial Network to create synthetic images of locations (environments)."
